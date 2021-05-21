@@ -37,7 +37,7 @@ h2 {
 
 .job {
     position: absolute;
-    margin-left: 39.6%;
+    margin-left: 39.5%;
     margin-top: -30px;
     text-align: center;
     color: #d2d2d2;
@@ -208,5 +208,11 @@ li{
     font-size: 40px;
     font-weight: bolder;
     letter-spacing: 8px;
+}
+
+.hobi {
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 31px;
 }
 /* interests end */
