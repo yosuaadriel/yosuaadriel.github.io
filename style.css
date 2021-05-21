@@ -1,0 +1,212 @@
+body {
+    font-family : 'montserrat';
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    background-color: #d2d2d2;
+  }
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 70px;
+    letter-spacing: 5px;
+    line-height: 70px;
+}
+
+h2 {
+    line-height: 35px;
+}
+
+.list {
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
+/* .jobs {
+    margin-top: 200px;
+} */
+
+.bg {
+    margin: auto;
+    margin-top: -25px;
+	background-color: #000;
+    width: 300px;
+	height: 36px;  
+}
+
+.job {
+    position: absolute;
+    margin-left: 39.6%;
+    margin-top: -30px;
+    text-align: center;
+    color: #d2d2d2;
+    font-size: 20px;
+    font-weight:500;
+    letter-spacing: 5px;
+}
+
+.line1 {
+    margin: auto;
+    margin-top: 8%;
+    width: 1170px;
+    height: 4px;
+    background-color: black;
+}
+
+.line2 {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 450px;
+    width: 910px;
+    height: 4px;
+    background-color: black;
+    transform: rotate(90deg);
+}
+
+.line3 {
+    position: absolute;
+    margin-left: 590px;
+    margin-top: 23%;
+    width: 670px;
+    height: 4px;
+    background-color: black;
+}
+
+.line4 {
+    position: absolute;
+    margin-left: 89px;
+    margin-top: 23%;
+    width: 430px;
+    height: 4px;
+    background-color: black;
+}
+
+.line5 {
+    position: absolute;
+    margin-left: 590px;
+    margin-top: 48%;
+    width: 670px;
+    height: 4px;
+    background-color: black;
+}
+
+/* Kontak */
+
+.contact {
+    margin-left: 120px;
+}
+
+.ct {
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 8px;
+    margin-top: 40px;
+}
+
+.pea {
+    position: absolute;
+    margin-top: -15px;
+    line-height: 40px;
+}
+
+.rincian_kontak {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -35px;
+}
+
+.isi_kontak {
+    font-weight: normal;
+    line-height: 40px;
+}
+
+/* kontak end */
+
+/* profil */
+.profile{
+    margin-left: 615px;
+    padding-right: 200px;
+}
+
+.profil {
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 8px;
+    margin-top: -68px;
+}
+
+.desk_profil {
+    position: absolute;
+    font-weight: normal;
+    margin-top: -15px;
+    padding-right: 100px;
+}
+/* profil end */
+
+/* Skill */
+.skills {
+    margin-top: 280px;
+    margin-left: 122px;
+}
+
+.skill {
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+
+.prof {
+    letter-spacing: 3px;
+    margin-top: -10px;
+}
+
+.tools {
+    letter-spacing: 3px;
+    margin-top: -10px;
+    margin-top: 30px;
+}
+
+li{
+    margin: -10px 0;
+}
+
+/* skill end */
+
+/* education */
+.education {
+    position: absolute;
+    margin-top: -595px;
+    margin-left: 615px;
+}
+
+.edu {
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+
+.desk {
+    line-height: normal;
+}
+
+.nama_sekolah {
+    letter-spacing: 3px;
+    margin-top: -10px;
+}
+
+/* education */
+
+/* interests */
+.hobbies {
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 615px;
+}
+
+.interests{
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+/* interests end */
